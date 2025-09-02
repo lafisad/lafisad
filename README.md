@@ -1,2 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafisad\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafisad&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lafisad&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
