@@ -1,7 +1,5 @@
 <div align="center">
   <img src="banner.png" alt="txhc banner" width="100%" />
-
-  <br />
   <br />
 
   <h1>txhc</h1>
